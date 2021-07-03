@@ -13,8 +13,8 @@ Hi I am beginner.....
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![NODE](https://img.shields.io/badge/-NODE.js-090909?style=for-the-badge&logo=node.js)
 
-### Follow me 
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/fantazer21)
 ![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=LinkedIn)
 
 ### My projects
