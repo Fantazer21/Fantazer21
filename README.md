@@ -6,13 +6,13 @@ Hi, I am Ilya.In last year I started coding.If you are interested in stack of my
 hesitate to contact.
 
 ### Languages and Tools
-[![Html](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)]()
-![CSS](https://img.shields.io/badge/-CSS/SCSS-090909?style=for-the-badge&logo=SASS)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
-![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
-![NODE](https://img.shields.io/badge/-NODE.js-090909?style=for-the-badge&logo=node.js)
+[![Html](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)](http://htmlbook.ru/)
+[![CSS](https://img.shields.io/badge/-CSS/SCSS-090909?style=for-the-badge&logo=SASS)](https://sass-lang.com/)
+[![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)](https://www.figma.com/)
+[![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)](https://learn.javascript.ru/)
+[![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![NODE](https://img.shields.io/badge/-NODE.js-090909?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/fantazer21)
