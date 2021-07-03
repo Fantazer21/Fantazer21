@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/Fantazer21/Fantazer21/blob/main/assets/text.gif)]
+![Header](https://github.com/Fantazer21/Fantazer21/blob/main/assets/text.gif)
 
 ### About me
 Hi I am beginner.....
