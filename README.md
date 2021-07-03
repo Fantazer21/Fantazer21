@@ -15,7 +15,7 @@ Hi I am beginner.....
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/fantazer21)
-![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=LinkedIn)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=LinkedIn)]( https://www.linkedin.com/in/ilya-stepanov-044790200/)
 
 ### My projects
 
