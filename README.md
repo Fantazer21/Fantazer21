@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [![Header](https://github.com/Fantazer21/Fantazer21/blob/main/assets/text.gif)]
 
 ###About me:
@@ -19,6 +19,3 @@ Hi I am beginner.....
 
 ###My projects:
 
-=======
-![Header](https://github.com/Fantazer21/Fantazer21/blob/main/assets/text.gif)
->>>>>>> b4b6957c04abf135fe073dc81ea424c9ae1517ea
