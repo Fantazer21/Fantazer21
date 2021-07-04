@@ -13,6 +13,7 @@ hesitate to contact.
 [![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![NODE](https://img.shields.io/badge/-NODE.js-090909?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)
+[![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)](https://redux.js.org/)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/fantazer21)
