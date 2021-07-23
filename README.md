@@ -21,3 +21,5 @@ hesitate to contact.
 [![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/Fantazer21)
 ### My projects
 
+HTML/CSS
+[Webdev](https://github.com/Fantazer21/webdev) non-responsive site about web development.
