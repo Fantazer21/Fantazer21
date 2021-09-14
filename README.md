@@ -23,6 +23,6 @@ hesitate to contact.
 
 * HTML/CSS :
   * [Webdev](https://github.com/Fantazer21/webdev) non-responsive site.
-
+  
 * JavaScript ES6: 
-  * 
+  * * [Calculator](https://github.com/Fantazer21/calculator) calculator.
