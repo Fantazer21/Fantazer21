@@ -14,6 +14,7 @@ hesitate to contact.
 [![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![NODE](https://img.shields.io/badge/-NODE.js-090909?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)
 [![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)](https://redux.js.org/)
+[![MobX](https://img.shields.io/badge/-Mobx-090909?style=for-the-badge&logo=mobx)](https://redux.js.org/)
 [![Material-UI](https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=MaterialUi)](https://mui.com/)
 [![Storybook](https://img.shields.io/badge/-Storybook-090909?style=for-the-badge&logo=Storybook)](https://storybook.js.org/)
 
