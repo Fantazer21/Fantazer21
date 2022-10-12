@@ -1,10 +1,6 @@
 
 ![Header](https://github.com/Fantazer21/Fantazer21/blob/main/assets/text.gif)
 
-### About me
-Hi, I am Ilya.In last year I started coding.If you are interested in stack of my technologies don't 
-hesitate to contact.
-
 ### Languages and Tools
 [![Html](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)](http://htmlbook.ru/)
 [![CSS](https://img.shields.io/badge/-CSS/SCSS-090909?style=for-the-badge&logo=SASS)](https://sass-lang.com/)
