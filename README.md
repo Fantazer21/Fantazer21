@@ -16,6 +16,7 @@
 [![Material-UI](https://img.shields.io/badge/-MUI-090909?style=for-the-badge&logo=MUI)](https://mui.com/)
 [![Storybook](https://img.shields.io/badge/-Storybook-090909?style=for-the-badge&logo=Storybook)](https://storybook.js.org/)
 [![Next.js](https://img.shields.io/badge/-next.js-090909?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![JEST](https://img.shields.io/badge/-jest-090909?style=for-the-badge&logo=jest)](https://nextjs.org/)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/fantazer21)
